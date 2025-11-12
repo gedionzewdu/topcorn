@@ -15,12 +15,6 @@ built to *demonstrate MVVM with latest hot-trending Android development tools*.
 
 -----
 
-## Download 📥
-
-  - Download latest APK from [here](https://www.google.com/search?q=https://github.com/gedionzewdu/topcorn/releases/latest/download/app-debug.apk)
-
------
-
 ## Built With 🛠
 
   - [Kotlin](https://kotlinlang.org/) - First class and official programming language for Android development.
@@ -37,8 +31,6 @@ built to *demonstrate MVVM with latest hot-trending Android development tools*.
   - [Moshi Converter](https://github.com/square/retrofit/tree/master/retrofit-converters/moshi) - A Converter which uses Moshi for serialization to and from JSON.
   - [Glide](https://bumptech.github.io/glide/) - An image loading library for Android backed by Kotlin Coroutines.
   - [Material Components for Android](https://github.com/material-components/material-components-android) - Modular and customizable Material Design UI components for Android.
-  - [TwinKill](https://www.google.com/search?q=https://github.com/gedionzewdu/twinkill) - A simple library, a collection of utility classes wrapped around JetPack components
-  - [MaterialColors](https://www.google.com/search?q=https://github.com/gedionzewdu/material_colors) - Android material color palettes
 
 -----
 
@@ -111,17 +103,7 @@ This project follows the famous MVVM architecture and best practices from Google
 
   - 🤓 Icons are from [flaticon.com](https://www.flaticon.com/)
   - 🖌️ Design inspired from [AnimeXStream](https://github.com/mukul500/AnimeXStream)
-  - 💽 Data from [top250 API](https://www.google.com/search?q=https://github.com/gedionzewdu/top250)
   - 📄 Thanks [Foodium](https://github.com/patilshreyas/Foodium)
-
------
-
-## TODO 🗒️
-
-  - [x] Improve algorithms and code review
-  - [x] Add test cases
-  - [ ] Integrate OMDB API to add search feature
-  - [ ] Add favorites
 
 -----
 

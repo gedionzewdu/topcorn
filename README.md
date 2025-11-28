@@ -11,7 +11,7 @@ built to *demonstrate MVVM with latest hot-trending Android development tools*.
 
 -----
 
-## Dark Mode Available 🌙
+![App Image](extras/dark.png?)
 
 -----
 
